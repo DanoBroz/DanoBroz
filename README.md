@@ -1,5 +1,8 @@
 ### Hello there, Daniel here, I'm Frontend (for the time being) web dev based in Ostrava, Czech Republic 🇨🇿
 
+📈 I'm currently working on my Full-stack skills<br>
+📚 I'm currently learning Node.js with Express.js
+
 ### 🗣️ How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-broz) 
 
