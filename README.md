@@ -1,4 +1,5 @@
-### Hello there, Daniel here, I'm Frontend (for the time being) web dev based in Ostrava, Czech Republic 🇨🇿
+### Hello there 👋,
+I'm self-taught frontend (for the time being) web developer based in Ostrava, Czech Republic 🇨🇿
 
 📈 I'm currently working on my Full-stack skills<br>
 📚 I'm currently learning Node.js with Express.js
