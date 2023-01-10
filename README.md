@@ -1,8 +1,7 @@
-### Hello there 👋,
-I'm self-taught frontend (for the time being) web developer based in Ostrava, Czech Republic 🇨🇿
+### Hey there! 👋,
+My name is Daniel Brož and I am a Frontend Developer based in Ostrava 🌎. I am passionate about creating fun and intuitive web experiences that are easy on the eyes 🖥️. I'm currently working with some awesome technologies like TypeScript, React, and TailwindCSS, and always looking to expand my skillset and dive into the fullstack development world! I'm especially interested in learning Node.js, Express.js, MongoDB and Next.js to build amazing end-to-end web applications 🚀. My goal is to write clean and maintainable code that delivers the best user experience possible 💻.
 
-📈 I'm currently working on my Full-stack skills<br>
-📚 I'm currently learning Node.js with Express.js
+When I'm not coding, I love sipping on a nice filtered coffee ☕️ , it's my go-to fuel. Also, I'm a huge fan of hard and metal music 🤘 , which always keeps me pumped while I'm coding away on new projects 🔥.
 
 ### 🗣️ How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-broz) 
